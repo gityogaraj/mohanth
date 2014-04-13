@@ -1,0 +1,8 @@
+C:\Bare-CAB\newproject\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Bare-CAB\newproject\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Bare-CAB\newproject\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Bare-CAB\newproject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Bare-CAB\newproject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+C:\Bare-CAB\newproject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Bare-CAB\newproject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Bare-CAB\newproject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
