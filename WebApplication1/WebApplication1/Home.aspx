@@ -9,9 +9,10 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <table>
+        <table >
             <tr>
                 <td> <h1>WELCOME</h1></td>
+                <td>repostiroty</td>
             </tr>
         </table>
     </div>
